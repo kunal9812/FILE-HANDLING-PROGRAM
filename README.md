@@ -25,3 +25,7 @@ Through this task, I gained practical knowledge of how C handles files and impro
 The outcome of the project was a fully functional, menu-driven C program that efficiently performs file creation, reading, writing, and appending operations. It not only fulfilled the internship requirements but also served as a strong foundation for more complex file handling and data processing projects in the future.
 
 Overall, this task helped me gain hands-on experience in core C programming concepts and demonstrated my ability to independently complete a programming challenge from start to finish.
+
+*OUTPUT* : 
+
+<img width="1561" alt="Image" src="https://github.com/user-attachments/assets/823845a5-10ef-4b26-8826-bda988a8f71f" />
